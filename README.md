@@ -16,4 +16,4 @@ Returns the localized string corresponding to the specified key. Dynamic substri
 
 ## Install
 
-`npm install git+https://git@github.com/LizaTretyakova/liblocalizeclient.git`
+`npm install git+https://github.com/eabatalov/liblocalizeclient.git`
