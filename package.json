@@ -1,0 +1,10 @@
+{
+    "name": "liblocalizeclient",
+    "version": "0.1.0",
+    "main": "./src/main",
+    "dependencies": {
+        "liblocalizelang": "https://github.com/LizaTretyakova/liblocalizelang.git"
+    },
+    "licenses": [ { "type": "MIT", "url": "https://github.com/LizaTretyakova/liblocalizeclient/blob/master/LICENSE" } ],
+    "repository": { "type": "git", "url": "https://github.com/LizaTretyakova/liblocalizeclient.git" }
+}
